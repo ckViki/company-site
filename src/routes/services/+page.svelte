@@ -26,7 +26,6 @@
 			<div class="text-[16px] px-2 tracking-[0.05em] font-serif text-gray-400">
 				Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
 			</div>
-			
 		</div>
 
 		<div class="w-full items-center">
@@ -34,7 +33,6 @@
 			<div class="text-[16px] px-2 tracking-[0.05em] font-serif text-gray-400">
 				Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
 			</div>
-			
 		</div>
 
 		<div class="w-full items-center">
@@ -42,7 +40,6 @@
 			<div class="text-[16px] px-2 tracking-[0.05em] font-serif text-gray-400">
 				Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
 			</div>
-			
 		</div>
 
 		<div class="w-full items-center">
@@ -50,7 +47,6 @@
 			<div class="text-[16px] px-2 tracking-[0.05em] font-serif text-gray-400">
 				Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt suscipit voluptas ipsa in tempora esse soluta sint.
 			</div>
-			
 		</div>
 
 		
